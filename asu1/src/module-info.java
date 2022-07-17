@@ -1,0 +1,2 @@
+module asu1 {
+}
